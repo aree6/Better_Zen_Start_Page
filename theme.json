@@ -8,5 +8,5 @@
   "style": {
     "chrome": "userChrome.css"
   },
-  "readme": "README.md",
+  "readme": "README.md"
 }
