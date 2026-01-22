@@ -3,7 +3,7 @@
   "name": "Better Zen Start Page",
   "description": "A sophisticated start page fix for Zen. Features a custom animated logo and a subtle transparent fade-in background.",
   "author": "aree6",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "homepage": "https://github.com/aree6/Better_Zen_Start_Page",
   "style": {
     "userChrome.css": "userChrome.css"
@@ -23,7 +23,7 @@
     },
     "zen.fix.tabs": {
       "name": "Transparent Tabs & Dot Indicator",
-      "description": "Makes inactive tabs transparent and adds a dot indicator for visibility. (Default: Off)",
+      "description": "Makes inactive tabs transparent and adds a dot indicator. (Default: Off)",
       "type": "boolean",
       "defaultValue": false
     },
