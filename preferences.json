@@ -1,0 +1,38 @@
+[
+  {
+    "property": "zen.fix.newtab",
+    "label": "Start Page Logo",
+    "type": "checkbox",
+    "defaultValue": true
+  },
+  {
+    "property": "zen.fix.fade",
+    "label": "Fade In Transparent Background",
+    "type": "checkbox",
+    "defaultValue": true
+  },
+  {
+    "property": "zen.fix.tabs",
+    "label": "Transparent Tabs & Dot Indicator",
+    "type": "checkbox",
+    "defaultValue": false
+  },
+  {
+    "property": "zen.fix.pending",
+    "label": "Pending Tab Status",
+    "type": "checkbox",
+    "defaultValue": false
+  },
+  {
+    "property": "zen.fix.cleanui",
+    "label": "Clean UI & No Bookmarks",
+    "type": "checkbox",
+    "defaultValue": false
+  },
+  {
+    "property": "zen.fix.essentials",
+    "label": "Essentials Grid Layout",
+    "type": "checkbox",
+    "defaultValue": false
+  }
+]
