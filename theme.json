@@ -1,0 +1,49 @@
+{
+  "id": "zen-start-page-fix",
+  "name": "Zen Start Page Fix",
+  "description": "Fixes the start page with a calmer aesthetic and a fade-in background. Includes optional modules for transparent tabs and clean UI.",
+  "author": "aree6",
+  "version": "1.0.0",
+  "homepage": "https://github.com/aree6/Zen_UserChrome",
+  "style": {
+    "userChrome.css": "userChrome.css"
+  },
+  "preferences": {
+    "zen.fix.newtab": {
+      "name": "Start Page Logo",
+      "description": "Displays the animated 'Welcome to a calmer internet' logo on empty tabs.",
+      "type": "boolean",
+      "defaultValue": true
+    },
+    "zen.fix.fade": {
+      "name": "Fade In Transparent Background",
+      "description": "Adds a subtle, sophisticated gradient fade from the left side of the browser.",
+      "type": "boolean",
+      "defaultValue": true
+    },
+    "zen.fix.tabs": {
+      "name": "Transparent Tabs & Dot Indicator",
+      "description": "Makes inactive tabs transparent and adds a dot indicator for visibility. (Default: Off)",
+      "type": "boolean",
+      "defaultValue": false
+    },
+    "zen.fix.pending": {
+      "name": "Pending Tab Status",
+      "description": "Dims unloaded tabs and adds a moon icon 🌙. (Default: Off)",
+      "type": "boolean",
+      "defaultValue": false
+    },
+    "zen.fix.cleanui": {
+      "name": "Clean UI & No Bookmarks",
+      "description": "Hides the bookmarks toolbar and removes harsh tab borders. (Default: Off)",
+      "type": "boolean",
+      "defaultValue": false
+    },
+    "zen.fix.essentials": {
+      "name": "Essentials Grid Layout",
+      "description": "Optimizes the Essentials grid and icon sizing. (Default: Off)",
+      "type": "boolean",
+      "defaultValue": false
+    }
+  }
+}
