@@ -1,10 +1,10 @@
 {
-  "id": "zen-start-page-fix",
-  "name": "Zen Start Page Fix",
-  "description": "Fixes the start page with a calmer aesthetic and a fade-in background. Includes optional modules for transparent tabs and clean UI.",
+  "id": "better-zen-start-page",
+  "name": "Better Zen Start Page",
+  "description": "A sophisticated start page fix for Zen. Features a custom animated logo and a subtle transparent fade-in background.",
   "author": "aree6",
   "version": "1.0.0",
-  "homepage": "https://github.com/aree6/Zen_UserChrome",
+  "homepage": "https://github.com/aree6/Better_Zen_Start_Page",
   "style": {
     "userChrome.css": "userChrome.css"
   },

@@ -1,4 +1,4 @@
-# Zen Start Page Fix
+# Better Zen Start Page
 <p align="center">
   <img
     src="zen.gif"
@@ -39,5 +39,5 @@ This mod uses **Libre Baskerville** for the logo. You **must** install it manual
 ## Installation (Via Sine)
 1.  Open Zen Browser Settings -> **Sine** (or Zen Mods).
 2.  Click **"Install from Git"**.
-3.  Paste this repo URL: `https://github.com/aree6/Zen_UserChrome`
+3.  Paste this repo URL: `https://github.com/aree6/Better_Zen_Start_Page`
 4.  Click **Install**.

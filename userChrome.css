@@ -1,6 +1,6 @@
 /* 
  * ============================================================================
- *   ZEN START PAGE FIX
+ *   BETTER ZEN START PAGE
  * ============================================================================
  */
 
@@ -56,7 +56,6 @@
     background-size: 60% auto, 100% !important;
     background-repeat: no-repeat, repeat !important;
     opacity: 1 !important;
-    /* Combine Logo + Fade if both are active, otherwise just Logo */
     background-image: var(--zen-logo), var(--zen-fade-bg) !important;
     background-color: transparent !important;
   }
