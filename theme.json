@@ -8,10 +8,6 @@
   "style": {
     "chrome": "userChrome.css"
   },
-  "createdAt": "2026-01-22",
-  "updatedAt": "2026-01-22",
-  "readme": "https://raw.githubusercontent.com/aree6/Better_Zen_Start_Page/main/README.md",
-  "image": "https://raw.githubusercontent.com/aree6/Better_Zen_Start_Page/main/zen.gif",
-  "fork": ["zen"],
-  "tags": ["chrome"]
+  "readme": "README.md",
+  "image": "zen.gif"
 }
