@@ -7,10 +7,13 @@
   />
 </p>
 
+# Installation (Via Sine)
+1.  Open Zen Browser Settings -> **Sine**.
+3.  Paste this repo URL: `https://github.com/aree6/Better_Zen_Start_Page`
+4.  Click **Install**.
 
----
 
-# ⚠️ Install the Font
+## ⚠️ Install the Font
 This mod uses **Libre Baskerville** for the logo. You **must** install it manually if you want to match the look exactly.
 
 1.  **[Download Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville)** (Google Fonts).
@@ -19,7 +22,6 @@ This mod uses **Libre Baskerville** for the logo. You **must** install it manual
 4.  **Mac:** Unzip -> Double Click `.ttf` files -> "Install Font".
 5.  **Restart Zen Browser.**
 
----
 
 ## Other Features
 
@@ -35,14 +37,7 @@ This mod uses **Libre Baskerville** for the logo. You **must** install it manual
 
 
 
-## Installation (Via Sine)
-1.  Open Zen Browser Settings -> **Sine** (or Zen Mods).
-2.  Click **"Install from Git"**.
-3.  Paste this repo URL: `https://github.com/aree6/Better_Zen_Start_Page`
-4.  Click **Install**.
-
----
-## **Set as New Tab Page (Zen + Sine)**
+# **Set as New Tab Page also**
 
 > *Optional tweak* (if you want this as your new tab page also)
 
