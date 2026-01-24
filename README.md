@@ -27,7 +27,7 @@ This mod uses **Libre Baskerville** for the logo. You **must** install it manual
 
 ### Enabled by Default:
 *   **[ON] Start Page Logo:** Adds the animated "Welcome to a calmer internet" SVG to your new tab.
-*   **[ON] Fade In Transparent Background:** Adds a subtle gradient fading in from the left, making the browser stack feel seamless and sophisticated.
+*   **[ON] Fade In Transparent Background:** Adds a subtle gradient fading in from the left, making the browser stack feel seamless and spacious.
 
 ### Optional (Disabled by Default):
 *   **[OFF] Transparent Tabs & Dot Indicator:** Removes tab backgrounds and adds a notification dot for open apps.
